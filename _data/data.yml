@@ -136,8 +136,8 @@ experiences:
     details: |
       - 工作积极主动，因工作突出获得《2018年度优秀员工》。
       - 主导 Android App 开发过程，根据项目概要设计和原型，编写 App 详细开发文档。
-      - 参与部分IOS功能的开发，与UI设计师沟通原型和切图，与IOS、后台Api开发人员沟通进度，向技术经理汇报项目进度。
-      - Android 功能模块开发，根据业务需要自定义View，Android 技术选型，Android框架搭建。
+      - 与UI设计师沟通原型和切图，与IOS、后台Api开发人员沟通进度，向技术经理汇报项目进度，参与部分管理。
+      - 参与部分IOS功能的开发。
 
 
 
@@ -189,6 +189,7 @@ experiences-projects:
 
         - 职责
           - 多人协作，主要负责商城模块、支付模块、导购返利模块，优化开发框架提升开发效率。
+      
         - 相关技术
           - 屏幕适配方案选型，解决团队屏幕适配问题
           - RxJava2 + Retrofit2 + OkHttp3 + EventBus + Glide + MVP
@@ -228,6 +229,7 @@ experiences-projects:
        - 职责
          - 独立开发，负责项目基础框架搭建、App详细设计、所有功能模块开发、主导移动端开发过程。
          - 参与IOS项目中的部分功能开发
+         
        - 相关技术
          - 处理嵌套事件分发冲突，熟悉Android 事件分发冲突解决方案
          - RxJava2 + Retrofit2 + OkHttp3 做网络请求和请求结果处理，熟悉 TCP、HTTP等常用网络协议
