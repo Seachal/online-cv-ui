@@ -131,7 +131,7 @@ experiences:
 #      离职原因：工作内容与职业规划不契合。
 
   - role: 北京中烟信息技术有限公司
-    time: 2017.07 - 2019.07  2 年
+    time: 2017.07 - 2019.07  
     company: Android 中级开发工程师
     details: |
       - 工作积极主动，因工作突出获得《2018年度优秀员工》。
@@ -147,7 +147,7 @@ experiences:
   #    已有Android框架优化升级，提高开发效率，根据原型自定义View。
 
   - role: 大连华信计算机技术股份有限公司
-    time: 2016.02 - 2017.06  1年5个月
+    time: 2016.02 - 2017.06  
     company: Java Web开发实习生 & Android 开发工程师
     details: |
       - 参与 OA 办公项目的后台开发。
