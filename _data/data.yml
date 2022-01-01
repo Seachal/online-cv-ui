@@ -57,22 +57,15 @@ sidebar:
 career-profile:
   title: 概况
   summary: |
-    5.5年工作经验：有过1年Java后端开发经验，目前4.5年Android App 开发经验。主导或独立开发过多款商业APP，拥有丰富的开发经验，
-    熟悉APP开发和发布的完整流程，具备较强的逻辑分析能力和解决问题能力。
-
-    了解IOS开发语言Objective-C、Swift，了解React-Native、 Flutter、Jetpack Compose等
-
-    掌握Dart、Kotlin、Java、网络协议,深入理解面向对象的设计思想，常用设计模式及六大设计原则。
-
-    熟悉⽀付、地图、消息推送、埋点、分享、统计等第三⽅开放 SDK，并具备对其⼆次封装的能⼒。
-
-    熟悉Android UI开发、网络通讯、多线程开发，性能优化等。深入理解事件分发机制、View绘制流程、Handler机制原理、屏幕适配技术。熟练使用RxJava，Retrofit、Glide、Okhttp等第三方开源类库。
-
-    熟悉 Android 性能优化，并对启动优化、稳定性优化、布局优化、瘦身优化有过相关的实践。
-
-    掌握Android模块化、组件化、插件化，熟悉 MVC、MVP、MVVM。
-
-    有较强的产品意识，善于从产品以及用户需求的角度进行相对应的学习与开发，协助产品经理分析解决业务需求，服务于用户。
+    - 5.5年工作经验：有过1年Java后端开发经验，目前4.5年Android App 开发经验。主导或独立开发过多款商业APP，拥有丰富的开发经验，
+    - 熟悉APP开发和发布的完整流程，具备较强的逻辑分析能力和解决问题能力。
+    - 了解IOS开发语言Objective-C、Swift，了解React-Native、 Flutter、Jetpack Compose等
+    - 掌握Dart、Kotlin、Java、网络协议,深入理解面向对象的设计思想，常用设计模式及六大设计原则。
+    - 熟悉⽀付、地图、消息推送、埋点、分享、统计等第三⽅开放 SDK，并具备对其⼆次封装的能⼒。
+    - 熟悉Android UI开发、网络通讯、多线程开发，性能优化等。深入理解事件分发机制、View绘制流程、Handler机制原理、屏幕适配技术。熟练使用RxJava，Retrofit、Glide、Okhttp- 等第三方开源类库。
+    - 熟悉 Android 性能优化，并对启动优化、稳定性优化、布局优化、瘦身优化有过相关的实践。
+    - 掌握Android模块化、组件化、插件化，熟悉 MVC、MVP、MVVM。
+    - 有较强的产品意识，善于从产品以及用户需求的角度进行相对应的学习与开发，协助产品经理分析解决业务需求，服务于用户。
 
 education:
   - degree: 统招本科/网络工程学士
