@@ -108,9 +108,9 @@ experiences:
       - 获得《团建活动优秀奖》奖杯，《e城e家产品体验官》奖章
 
 
-  - role: Android 高级开发工程师
+  - role: 北京原子恋科技有限公司
     time: 2019.09 - 2020.09
-    company: 北京原子恋科技有限公司
+    company: Android 高级开发工程师
     details: |
       - Android端小组长，负责项目的开发、任务分配、人员招聘等工作。
       - Atoshi 社交电商App， 好物聚电商模块的开发
@@ -130,9 +130,9 @@ experiences:
 #
 #      离职原因：工作内容与职业规划不契合。
 
-  - role: Android 中级开发工程师
+  - role: 北京中烟信息技术有限公司
     time: 2017.07 - 2019.07  2 年
-    company: 北京中烟信息技术有限公司
+    company: Android 中级开发工程师
     details: |
       - 工作积极主动，因工作突出获得《2018年度优秀员工》。
       - 主导 Android App 开发过程，根据项目概要设计和原型，编写 App 详细开发文档。
@@ -146,9 +146,9 @@ experiences:
   #    给IOS工程师讲解业务逻辑，与UI设计师沟通原型和切图，有时参与Api开发。 Android端重要技术选型，
   #    已有Android框架优化升级，提高开发效率，根据原型自定义View。
 
-  - role: Java Web开发实习生 & Android 开发工程师
+  - role: 大连华信计算机技术股份有限公司
     time: 2016.02 - 2017.06  1年5个月
-    company: 大连华信计算机技术股份有限公司
+    company: Java Web开发实习生 & Android 开发工程师
     details: |
       - 参与 OA 办公项目的后台开发。
       - 基于 Struts +  Spring + Hibernate 框架开发业务模块。对Java Web 和 SQL 复杂查询有所了解。
@@ -351,7 +351,7 @@ skills:
     - name: C & C++
       level: 40%    
       
-    - name: JavaWeb & Html & CSS & JavaScript
+    - name: Java Web & Html & CSS & JavaScript
       level: 35%
 
     - name: IOS & Objective-C & Swift 
