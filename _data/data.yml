@@ -346,10 +346,10 @@ skills:
       level: 45%
       
     - name: SQL
-      level: 45%  
+      level: 42%  
 
     - name: C & C++
-      level: 40%    
+      level: 38%    
       
     - name: Java Web & Html & CSS & JavaScript
       level: 35%
