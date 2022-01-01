@@ -166,7 +166,7 @@ experiences:
 
 experiences-projects:
   #      title:项目经验
-  - role: e城e家 | Android高级开发工程师
+  - role: e城e家 App
     time:  2020.09 - 至今
     company: 新奥集团·一城一家网络科技有限公司
     details: |
@@ -181,7 +181,7 @@ experiences-projects:
           - Constraintlayout Coordinatorlayout、Behavior 等Material Design等 Google 新框控件。
           - 针对了 内存、卡顿、网络、启动速度、布局加载、包体积 进行了多维的优化
 
-  - role: Atoshi 社交电商App  | Android高级开发工程师
+  - role: Atoshi 社交电商App
     time:  2019.09 - 2020.09
     company: 北京原子恋科技有限公司
     details: |
@@ -203,7 +203,7 @@ experiences-projects:
 
 
 
-  - role: 未来终端  |  Android中级开发工程师
+  - role: 未来终端 App
     time:  2019.01 - 2019.06  
     company: 北京中烟信息技术有限公司
     details: |
@@ -219,7 +219,7 @@ experiences-projects:
 
 
 
-  - role: Deep   |  Android中级开发工程师&IOS初级开发工程师
+  - role: Deep App
     time: 2017.12 - 2018.12  
     company: 北京中烟信息技术有限公司
     details: |
@@ -239,7 +239,7 @@ experiences-projects:
          - 使用RecyclerView实现下拉刷新、上拉加载、侧滑删除、下拉菜单
 
 
-  - role: 终端拜访
+  - role: 终端拜访  App
     time: 2017.7 - 2017.11  
     company:  北京中烟信息技术有限公司
     details: |
@@ -252,7 +252,7 @@ experiences-projects:
           - 零售户评分、附近零售户等新功能开发
           - 零售户地图位置纠正(基于百度地图Android SDK)
 
-  - role: 小伴
+  - role: 小伴 App
     time: 2016.10 - 2016.12  
     company: 大连华信计算机技术股份有限公司
     details: |
