@@ -18,6 +18,11 @@
   </div><!--//profile-container-->
 
   {% include contact.html %}
+  
+<!-- 把教育的信息， 调到 about  上面 -->
+  {% if sidebar.education %}
+  {% include education.html %}
+  {% endif %}
 
 <!--about 位置调上-->
   {% if sidebar.about %}
@@ -25,9 +30,7 @@
   {% endif %}
 
 
-  {% if sidebar.education %}
-  {% include education.html %}
-  {% endif %}
+
 
   {% include language.html %}
   {% include interests.html %}
