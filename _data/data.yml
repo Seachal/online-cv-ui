@@ -174,13 +174,13 @@ experiences-projects:
       e城e家是一站式品质生活服务平台，聚集了家庭生活所需要的水电气暖、家居、家电的维修安装、清洁保养、家政保姆等服务项目和以厨房卫浴为主的商品直销，覆盖全国主要城市小区，运用大数据和AI技术构建家庭服务生态圈。
 
         - 职责
-         - 主力开发，主要负责首页模块、商城模块、缴费模块，优化开发框架提升开发效率。
+          - 主力开发，主要负责首页模块、商城模块、缴费模块，优化开发框架提升开发效率。
         - 相关技术
-         - 屏幕适配方案选型，解决团队屏幕适配问题。
-         - RxJava2 + Retrofit2 + OkHttp3 + EventBus + Glide。
-         - 微信支付、微信H5支付。
-         - Constraintlayout Coordinatorlayout、Behavior 等Material Design等 Google 新框控件。
-         - 针对了 内存、卡顿、网络、启动速度、布局加载、包体积 进行了多维的优化。
+          - 屏幕适配方案选型，解决团队屏幕适配问题。
+          - RxJava2 + Retrofit2 + OkHttp3 + EventBus + Glide。
+          - 微信支付、微信H5支付。
+          - Constraintlayout Coordinatorlayout、Behavior 等Material Design等 Google 新框控件。
+          - 针对了 内存、卡顿、网络、启动速度、布局加载、包体积 进行了多维的优化。
 
   - role: e城e家师傅端-AI隐患识别
     time: 2021.04 - 2021.04
