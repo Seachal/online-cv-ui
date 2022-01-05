@@ -193,7 +193,7 @@ experiences-projects:
           - 相关技术
             - alibaba/MNN轻量级高性能推理引擎，它支持深度模型推理与训练，支持TensorFlow、Caffe、ONNX等主流模型格式。
             - 通过 NDK在 Android中 使用 JNI与本地代码（如C、C++）交互。
-            - CMake 构建脚本。
+            - CMake 构建脚本, 生成 so 库。
 
 
 
