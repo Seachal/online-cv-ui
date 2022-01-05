@@ -246,7 +246,7 @@ experiences-projects:
        - 相关技术
          - 处理嵌套事件分发冲突，熟悉Android 事件分发冲突解决方案
          - RxJava2 + Retrofit2 + OkHttp3 做网络请求和请求结果处理，熟悉 TCP、HTTP等常用网络协议
-         - 使用 Rxjava2 的操作符对事件流进行进行转换、组合、过滤等操作，了解Java8特性
+         - 使用 Rxjava2 的操作符对事件流进行进行转换、组合、过滤等操作。
          - 使用 Glide 实现图片的加载和缓存，了解Android缓存策略
          - 使用 CameraView、uCrop 自定义相机、拍照、相册、图片裁剪压缩上传等功能
          - 基于 MPAndroidChart 定制各种图表
