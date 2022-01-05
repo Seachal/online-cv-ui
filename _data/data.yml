@@ -190,7 +190,7 @@ experiences-projects:
         - 职责
           - 临时借调给集团 AI 研究院，主导Android 端开发，隐患识别能力由集团 AI 研究院提供，圆满完成任务。
         - 相关技术
-          - alibaba/MNN轻量级高性能推理引擎，它支持深度模型推理与训练，支持TensorFlow、Caffe、ONNX等主流模型格式。
+          - alibaba/MNN轻量级高性能推理引擎，它支持深度模型推理与训练，支持ONNX、Caffe、TensorFlow等主流模型格式。
           - 通过 NDK在 Android中 使用 JNI与本地代码（如C、C++）交互。
           - CMake 构建脚本, 生成 so 库。
 
