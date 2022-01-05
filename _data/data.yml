@@ -114,7 +114,7 @@ experiences:
     company: Android 高级开发工程师
     details: |
       - Android端小组长，负责项目的开发、任务分配、人员招聘等工作。
-      - Atoshi 社交电商App， 好物聚电商模块的开发
+      - 负责 Atoshi 社交电商App、好物聚电商App的开发工作，参与乐唰短视频平台App开发。
       - 负责商城模块：商城首页、分类、搜索、购物车、订单、店铺。
       - 负责支付模块：支付宝支付、微信支付、微信H5支付。
       - 负责社交电商导购模块： 京东导购、淘宝导购、拼多多导购。
@@ -181,6 +181,22 @@ experiences-projects:
           - 微信支付、微信H5支付
           - Constraintlayout Coordinatorlayout、Behavior 等Material Design等 Google 新框控件。
           - 针对了 内存、卡顿、网络、启动速度、布局加载、包体积 进行了多维的优化
+
+  - role: e城e家师傅端-AI隐患识别
+      time: 2021.04 - 2021.04
+      company: 新奥集团·一城一家网络科技有限公司
+      details: |
+        e城e家师傅端-AI隐患识别，主要用于帮助燃气师傅在上门安检时，通过 AI 技术快速发现家庭燃气安全隐患，解决安全隐患，为家庭燃气安全保驾护航。
+
+          - 职责
+            - Android 端主力开发，隐患识别能力由集团研究院提供。
+          - 相关技术
+            - alibaba/MNN轻量级高性能推理引擎，它支持深度模型推理与训练，支持TensorFlow、Caffe、ONNX等主流模型格式。
+            - 通过 NDK在 Android中 使用 JNI与本地代码（如C、C++）交互。
+            - CMake 构建脚本。
+
+
+
 
   - role: Atoshi 社交电商App
     time:  2019.09 - 2020.09
@@ -265,7 +281,6 @@ experiences-projects:
           - 多人协作，采用项目组封装的网络请求框架，独立完成项目的 UI 开发。
         - 相关技术
           - 使用 Jpush 实现推送服务
-          - 使用 ViewPager 自定义首次打开应用的动画效果
           - 基于 PullToRefresh 开源框架实现下拉刷新、上拉加载更多，分页加载
           - 使用 Volley 进行网络数据请求， 使用 Gson 解析从服务器获取的 Json 数据
           - 自定义类似微信朋友圈的发布、评论、以及点击评论时自动把ListView的焦点滑动到输入方软件上方
