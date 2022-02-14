@@ -57,11 +57,11 @@ sidebar:
 career-profile:
   title: 概况
   summary: |
-    - 5.5年工作经验：1年左右的小团队管理经验，有过1年Java后端开发经验，目前4.5年Android App 开发经验。主导或独立开发过多款商业APP，拥有丰富的开发经验。
+    - 5.5年工作经验：1年左右的小团队管理经验，有过1年Java后端开发经验，目前4.5年Android App 开发经验。主导、独立开发过多款商业APP，拥有丰富的开发经验。
     - 了解 JavaWeb、Html、CSS、JavaScript，这份《简历》就是用前端代码生成。
-    - 了解 React-Native、 Flutter、 Compose,了解IOS开发语言Objective-C、Swift。
+    - 了解 React-Native、Jetpack Compose,了解Objective-C、Swift。
     - 了解 JNI、NDK，简单使用过NDK加密保护App的关键Key，FFMPEG 解码。
-    - 掌握 Dart、Kotlin、Jetpack:Lifecycles、LiveData、ViewModel、Navigation、WorkManager。
+    - 掌握 Dart、Flutter、Kotlin、Jetpack:Lifecycles、LiveData、ViewModel、Navigation、WorkManager。
     - 熟悉 Java 面向对象的设计思想，常用设计模式及六大设计原则。
     - 熟悉⽀付、地图、消息推送、埋点、分享、统计等第三⽅开放 SDK，并具备对其⼆次封装的能⼒。
     - 熟悉 Android UI开发、网络通讯、多线程开发等。深入理解事件分发机制、View绘制流程、Handler机制原理、屏幕适配技术。熟练使用RxJava，Retrofit、Glide、Okhttp等第三方开源类库。
@@ -369,7 +369,7 @@ skills:
       level: 35%
 
     - name: IOS & Objective-C & Swift 
-      level: 30%
+      level: 20%
 
 #footer: >
 #  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
