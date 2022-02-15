@@ -57,14 +57,14 @@ sidebar:
 career-profile:
   title: 概况
   summary: |
-    - 5.5年工作经验：1年左右的小团队管理经验，有过1年Java后端开发经验，目前4.5年Android App 开发经验。主导、独立开发过多款商业APP，拥有丰富的开发经验。
+    - 5.5年工作经验：1年左右的小团队管理经验，有过1年Java后端开发经验，目前4.5年Android App 开发经验。
     - 了解 JavaWeb、Html、CSS、JavaScript，这份《简历》就是用前端代码生成。
     - 了解 React-Native、Jetpack Compose,了解Objective-C、Swift。
-    - 了解 JNI、NDK，简单使用过NDK加密保护App的关键Key，FFMPEG 解码。
+    - 了解 JNI、NDK，简单使用过NDK加密保护App的私密Key信息，FFMPEG 解码。
     - 掌握 Dart、Flutter、Kotlin、Jetpack:Lifecycles、LiveData、ViewModel、Navigation、WorkManager。
-    - 熟悉 Java 面向对象的设计思想，常用设计模式及六大设计原则。
-    - 熟悉⽀付、地图、消息推送、埋点、分享、统计等第三⽅开放 SDK，并具备对其⼆次封装的能⼒。
-    - 熟悉 Android UI开发、网络通讯、多线程开发等。深入理解事件分发机制、View绘制流程、Handler机制原理、屏幕适配技术。熟练使用RxJava，Retrofit、Glide、Okhttp等第三方开源类库。
+    - 熟悉 Java 面向对象的设计思想，常用设计模式与设计原则。
+    - 熟悉 ⽀付、地图、推送、埋点、分享、统计、IM 等第三⽅开放 SDK，并具备对其⼆次封装的能⼒。
+    - 熟悉 Android UI开发、网络通讯、多线程开发等。理解事件分发机制、View绘制流程、Handler机制原理、屏幕适配技术。熟练使用RxJava，Retrofit、Glide、Okhttp等第三方开源类库。
     - 熟悉 Android 性能优化，并对启动优化、稳定性优化、布局优化、瘦身优化有过相关的实践。
     - 熟悉 Android 模块化、组件化、插件化，熟悉 MVC、MVP、MVVM。
     - 有较强的产品意识，善于从产品以及用户需求的角度进行相对应的学习与开发，协助产品经理分析解决业务需求，服务于用户。
@@ -102,23 +102,23 @@ experiences:
     time: 2020.09 - 至今
     company: Android 高级开发工程师 
     details: |
-      - 主要负责 e城e家（应用市场累计下载量9000万+）开发、进度管理等工作。
+      - 主要负责 e城e家（应用市场累计下载量9000万+）开发工作。
       - 参与 e城商户通、e城e家师傅端-AI隐患识别 等开发工作。
       - 质量模块：追踪并解决 APP 遇到的难以解决的疑难 Bug。
       - 性能稳定性优化：主要针对了 内存、卡顿、网络、启动速度、布局加载、包体积 进行了多维的优化。
-      - 获得《团建活动优秀奖》奖杯，《e城e家产品体验官》奖章
+      - 获得《e城e家产品体验官》奖章
 
 
   - role: 北京原子恋科技有限公司
     time: 2019.09 - 2020.09
     company: Android 高级开发工程师
     details: |
-      - Android端小组长，负责项目的开发、任务分配、人员招聘等工作。
-      - 负责 Atoshi 社交电商App、好物聚电商App的开发工作，参与乐唰短视频平台App开发。
+      - 负责 Atoshi 社交电商App、好物聚电商App的开发工作，
+      - 参与乐唰短视频平台App开发。
       - 负责商城模块：商城首页、分类、搜索、购物车、订单、店铺。
       - 负责支付模块：支付宝支付、微信支付、微信H5支付。
       - 负责社交电商导购模块： 京东导购、淘宝导购、拼多多导购。
-      - 负责安全模块：Api接口签名验证、时间校准。
+      - 负责安全模块：App私密key保护、Api接口签名验证、时间校准。
 
 
 
@@ -176,7 +176,7 @@ experiences-projects:
         - 职责
           - 主力开发，主要负责首页模块、商城模块、缴费模块，优化开发框架提升开发效率。
         - 相关技术
-          - 屏幕适配方案选型，解决团队屏幕适配问题。
+          - 开发语言 Java、Kotlin
           - RxJava2 + Retrofit2 + OkHttp3 + EventBus + Glide。
           - 微信支付、微信H5支付。
           - Constraintlayout Coordinatorlayout、Behavior 等Material Design等 Google 新框控件。
@@ -360,16 +360,16 @@ skills:
       level: 45%
       
     - name: SQL
-      level: 42%  
+      level: 40%
 
     - name: C & C++
-      level: 38%    
+      level: 35%
       
     - name: Java Web & Html & CSS & JavaScript
-      level: 35%
+      level: 30%
 
     - name: IOS & Objective-C & Swift 
-      level: 20%
+      level: 10%
 
 #footer: >
 #  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
