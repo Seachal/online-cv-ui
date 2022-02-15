@@ -177,8 +177,9 @@ experiences-projects:
           - 主力开发，主要负责首页模块、商城模块、缴费模块，优化开发框架提升开发效率。
         - 相关技术
           - 开发语言 Java、Kotlin
+          - 蓝牙通信、NFC通信
           - RxJava2 + Retrofit2 + OkHttp3 + EventBus + Glide。
-          - 微信支付、微信H5支付。
+          - WebView封装、微信支付、微信H5支付。
           - Constraintlayout Coordinatorlayout、Behavior 等Material Design等 Google 新框控件。
           - 针对了 内存、卡顿、网络、启动速度、布局加载、包体积 进行了多维的优化。
 
